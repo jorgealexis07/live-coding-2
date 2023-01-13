@@ -1,0 +1,30 @@
+import java.util.Scanner;
+
+public class Practica {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int caja1 = 0;
+		int caja2 = 0;
+		
+			System.out.print("INGRESAR NUMERO DE MANGOS:");
+			Scanner Nmangos= new Scanner(System.in) ;
+			System.out.print("INGRESAR NUMERO DE MANZANAS:");
+			Scanner Nmanzanas= new Scanner(System.in) ;
+			
+			System.out.print("INGRESAR NUMERO DE cajasAS:");
+			int Ncajas= System.in(nma );
+			
+			
+			int nm = str new MangosNaranjas(Nmangos, Nmanzanas);
+			
+			MangosNaranjas() nm = new MangosNaranjas(Nmangos, Nmanzanas);
+			
+			System.out.println("El numero de manzanas es: "+Ncajas);
+			System.out.println("El numero de mangos es: "+Nmangos);
+			System.out.println("El numero de manzanas es: "+Nmanzanas);
+			
+			
+	}
+
+}

@@ -1,0 +1,29 @@
+
+public class MangosNaranjas {
+	int Nmangos ;
+	int Nmanzanas ;
+	public MangosNaranjas(int nmangos, int nmanzanas) {
+		super();
+		Nmangos = nmangos;
+		Nmanzanas = nmanzanas;
+	}
+	public int getNmangos() {
+		return Nmangos;
+	}
+	public void setNmangos(int nmangos) {
+		Nmangos = nmangos;
+	}
+	public int getNmanzanas() {
+		return Nmanzanas;
+	}
+	public void setNmanzanas(int nmanzanas) {
+		Nmanzanas = nmanzanas;
+	}
+	@Override
+	public String toString() {
+		return "MangosNaranjas [Nmangos=" + Nmangos + ", Nmanzanas=" + Nmanzanas + "]";
+	}
+	
+	
+
+}
